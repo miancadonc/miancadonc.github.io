@@ -1,11 +1,11 @@
 # Site settings
 author: Nat McConnaughay
-title: 
+title: Nat's Notes
 header-img: img/home-bg.png
 email: natmcconnaughay@gmail.com
 copyright_name: Nat McConnaughay
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Developer in development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  miancadonc
