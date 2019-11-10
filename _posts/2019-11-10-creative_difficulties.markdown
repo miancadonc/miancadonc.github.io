@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Creative Difficulties"
-date:       2019-11-10 12:39:16 +0000
+date:       2019-11-10 07:39:17 -0500
 permalink:  creative_difficulties
 ---
 
