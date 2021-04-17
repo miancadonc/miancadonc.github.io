@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS Project Reflections"
-date:       2021-04-17 06:45:02 +0000
+date:       2021-04-17 02:45:03 -0400
 permalink:  js_project_reflections
 ---
 
